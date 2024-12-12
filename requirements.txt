@@ -1,0 +1,44 @@
+# OCR and Image Processing
+pytesseract
+Pillow
+
+# PII Detection (NER)
+spacy
+spacy-transformers
+
+# Encryption
+cryptography
+
+# Configuration Management
+PyYAML
+python-magic
+requests
+
+# Progress Bar
+tqdm
+
+# API Development
+fastapi
+uvicorn
+
+# Testing
+pytest
+pytest-cov
+
+# Development Utilities
+black
+flake8
+
+# Optional: Logging
+loguru
+
+# pdf handling 
+pymupdf
+
+
+# Existing dependencies...
+easyocr
+transformers
+torch
+pdf2image
+PyMuPDF
